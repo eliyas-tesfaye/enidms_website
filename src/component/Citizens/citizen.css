@@ -1,0 +1,15 @@
+#userS{
+    width: 80%;
+    padding-left: 4%;
+}
+.textSpecing{
+    letter-spacing: 2px;
+    padding: 1%;
+}
+.sample{
+    font-weight: bold;
+}
+.MDBRow{
+    max-width: 500px;
+    margin: auto;
+}
